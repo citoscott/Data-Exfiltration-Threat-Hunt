@@ -2,8 +2,7 @@
 
 <!--![officeguy](https://github.com/user-attachments/assets/a9391e23-e852-4fce-b1d5-6d7d7ca819e6)-->
 
-![image](https://github.com/user-attachments/assets/dd961da0-e1c6-4258-a0bc-39ef91f47870)
-
+![image](https://github.com/user-attachments/assets/7c57b484-1bab-4f88-81c1-c42d5fe2904e)
 
 ## Platforms and Tools Used
 - Windows 10 Virtual Machines (Microsoft Azure)
